@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPages.IntroductionPage"
+             IconImageSource="awkward.jpg"
+             Title="Introduction"
+             >
+    <ContentPage.Content>
+
+        <Frame Margin="10" Padding="10" BorderColor="Blue">
+            <StackLayout>
+                <Label Text="This is me.." Margin="30"></Label>
+                <Image Source="awkward.jpg"></Image>
+                <Label Text="in the not-so-distant future" Margin="30"></Label>
+            </StackLayout>
+
+        </Frame>
+
+    </ContentPage.Content>
+</ContentPage>

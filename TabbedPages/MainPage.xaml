@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:Local="clr-namespace:TabbedPages" mc:Ignorable="d" x:Class="TabbedPages.MainPage">
+    <NavigationPage Title="Introduction">
+        <x:Arguments>
+            <Local:IntroductionPage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Can you drive?">
+        <x:Arguments>
+            <Local:DrivingAge />
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Credits">
+        <x:Arguments>
+            <Local:Credits />
+        </x:Arguments>
+    </NavigationPage>
+    
+     
+
+</TabbedPage>

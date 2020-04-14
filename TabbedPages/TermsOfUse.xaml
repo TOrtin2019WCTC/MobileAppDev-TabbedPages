@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" Title="Terms of Use" x:Class="TabbedPages.TermsOfUse">
+    <ContentPage.Content>
+        <ContentView HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout>
+                <Label Text="1. Do not steal my stuff"/>
+                <Label Text="2. Only view this app once, or your eyes will bleed"/>
+                <Label Text="3. Do not mock or ridcule my styling skills"/>
+                <Button Text="Dismiss" Clicked="Button_Clicked"/>
+            </StackLayout>
+        </ContentView>
+    </ContentPage.Content>
+</ContentPage>

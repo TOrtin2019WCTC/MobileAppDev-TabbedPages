@@ -1,0 +1,18 @@
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/bin/Debug/netstandard2.0/TabbedPages.deps.json
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/bin/Debug/netstandard2.0/TabbedPages.dll
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/bin/Debug/netstandard2.0/ref/TabbedPages.dll
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/bin/Debug/netstandard2.0/TabbedPages.pdb
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/Credits.xaml.g.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/IntroductionPage.xaml.g.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/TabbedPages.AssemblyInfoInputs.cache
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/TabbedPages.AssemblyInfo.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/TabbedPages.dll
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/ref/TabbedPages.dll
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/TabbedPages.pdb
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/TabbedPages.csprojAssemblyReference.cache
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/PageTwo 2.xaml.g.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/DrivingAge.xaml.g.cs
+/Users/tim/Desktop/Repos/TabbedPages/TabbedPages/obj/Debug/netstandard2.0/TermsOfUse.xaml.g.cs

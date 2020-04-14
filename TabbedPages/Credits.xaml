@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TabbedPages.Credits" Title="Credits">
+    <ContentPage.Content>
+       <ContentView VerticalOptions="Center" HorizontalOptions="Center">
+           <StackLayout>
+               <Label Text="Tim Ortin" HorizontalOptions="Center"/>
+               <Label Text="Copyright 2020" HorizontalOptions="Center"/>
+
+               <Button Text="Terms of Use" Clicked="Button_Clicked"/>
+           </StackLayout>
+           
+           </ContentView>
+       
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" Title="Can you drive?" x:Class="TabbedPages.DrivingAge">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+            <Entry Placeholder="Enter Age" x:Name="Enter_Age"/>
+            <Button Text="Submit" Clicked="Button_Clicked" x:Name="Submit"/>
+            <Label x:Name="Result" IsVisible="False"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
