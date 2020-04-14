@@ -1,27 +1,27 @@
 ﻿<Properties StartupConfiguration="{E9C35F52-7381-410D-B75F-8010F7CD2627}|Default">
   <MonoDevelop.Ide.ItemProperties.TabbedPages.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E19D1629-F87B-4B04-B7DA-51618009749D" />
   <MonoDevelop.Ide.ItemProperties.TabbedPages.Android PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPages/Credits.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPages/DrivingAge.xaml.cs">
     <Files>
       <File FileName="TabbedPages/MainPage.xaml" Line="11" Column="30" />
-      <File FileName="TabbedPages/Credits.xaml" Line="9" Column="42" />
-      <File FileName="TabbedPages/IntroductionPage.xaml" />
+      <File FileName="TabbedPages/Credits.xaml" Line="16" Column="1" />
+      <File FileName="TabbedPages/IntroductionPage.xaml" Line="12" Column="42" />
       <File FileName="TabbedPages/MainPage.xaml.cs" />
       <File FileName="TabbedPages/DrivingAge.xaml" Line="2" Column="136" />
       <File FileName="TabbedPages/DrivingAge.xaml.cs" Line="30" Column="59" />
-      <File FileName="TabbedPages/TermsOfUse.xaml" Line="1" Column="1" />
-      <File FileName="TabbedPages/TermsOfUse.xaml.cs" Line="1" Column="1" />
-      <File FileName="TabbedPages/Credits.xaml.cs" Line="17" Column="1" />
+      <File FileName="TabbedPages/TermsOfUse.xaml" Line="8" Column="33" />
+      <File FileName="TabbedPages/TermsOfUse.xaml.cs" Line="17" Column="49" />
+      <File FileName="TabbedPages/Credits.xaml.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TabbedPages" expanded="True">
             <Node name="TabbedPages" expanded="True">
-              <Node name="Credits.xaml" expanded="True">
-                <Node name="Credits.xaml.cs" selected="True" />
+              <Node name="Credits.xaml" expanded="True" />
+              <Node name="DrivingAge.xaml" expanded="True">
+                <Node name="DrivingAge.xaml.cs" selected="True" />
               </Node>
-              <Node name="DrivingAge.xaml" expanded="True" />
               <Node name="IntroductionPage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
               <Node name="TermsOfUse.xaml" expanded="True" />
